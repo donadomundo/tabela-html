@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <table border="1" cellpadding="4" cellspacing="0">
+    
+		</tr>
+      <td colspan="4">SMART PHONES DE ALTO DESEMPENHO</td>  
+    </tr>
+
+    <Tr>
+      <th rowspan="8">xiomi MI 9T</td> 
+
+      <tr>
+        <th colspan="2">configuração</td>
+      </tr>
+      
+      <tr>
+        <th>plataforma</td>
+        <td>android</td>
+      </tr>
+
+      <tr>
+        <td>versão</td>
+        <td>android 9.0 pie</td>
+      </tr>
+
+      <tr>
+        <th>Fps da Gravação</td>
+        <td>30 fps</td>
+      </tr>
+
+      <tr>
+        <th>Tamanho da tela</td>
+        <td>6.39"</td>
+      </tr>
+
+      <tr>
+        <th>Memoria</td>
+        <td>64GB</td>
+      </tr>
+
+      <tr>
+        <th>Processador</td>
+        <td>Snapdragon 730</td>
+      </tr>
+    </Tr>
+    
+    <tr>
+      <th rowspan="8">Apple iPhone X</td>
+
+      <tr>
+        <th colspan="2">configuração</td>
+      </tr>
+
+      <th>plataforma</td>
+      <td>iOS</td>
+
+      <tr>
+        <th>versão</td>
+        <td>iOS 11</td> 
+      </tr>
+
+      <tr>
+        <th>Fps da Gravação</td>
+        <td>60 fps</td>
+      </tr>
+
+      <tr>
+        <th>Tamanho da tela</td>
+        <td>5.8"</td>
+      </tr>
+
+      <tr>
+        <th>Memoria</td>
+        <td>64GB</td>
+      </tr>
+
+      <tr>
+        <th>Processador</td>
+        <td>A 11 Bionic</td>
+      </tr>
+
+    </tr>
+
+    </tr>
+      <th colspan="3">Fonte: htt4ps://www.tudocelular.com</td>
+    </tr>
+
+  </table>
+</body>
+</html>
